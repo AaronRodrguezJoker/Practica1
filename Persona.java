@@ -30,4 +30,14 @@ public class Persona {
       return edad;
    }
 
+   public void setpoblacion(String poblacion)  {
+    poblacion = poblacion;
+
+   }
+
+   public int getpoblacion() {
+    return poblacion;
+   }
+
+
 }//fin Persona
